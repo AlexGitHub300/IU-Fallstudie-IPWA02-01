@@ -49,7 +49,7 @@
    <header>
    		<div>
             <nav class="nav-header">
-                 <a href="index.jsp">
+                 <a href="indexlogout.jsp">
                     <img class="logo" src="images/logo.png" alt="logo picture">
                 </a>
                 <ul class="nav-links">
